@@ -1,0 +1,39 @@
+# Local config (store name, URLs, etc.) - copy from config.example.py
+local_config.py
+
+# Runtime log
+log
+
+# Captured photos
+images/
+
+# Pre-generated ESC/POS binary files (not used by app)
+printcodes/
+.printcodes/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environment
+receipt_imager/
+venv/
+.venv/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
