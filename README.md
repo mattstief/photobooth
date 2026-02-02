@@ -1,4 +1,7 @@
 # Receipt printer photobooth
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/e296d59b-c10f-44ee-ac45-858147a3a6d8" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/7e506f97-02f9-4fed-8387-9c41cded80ff" />
+
 
 Raspberry Pi photobooth: camera preview, touchscreen/button trigger, countdown, optional face-based brightness, receipt printing with QR code.
 
